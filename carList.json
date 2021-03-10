@@ -1,0 +1,122 @@
+{
+  "1": {
+    "brand": "Audi",
+    "model": "A4",
+    "fuel consumption": "7",
+    "car number": "PA4415AH",
+    "price per hour": "25",
+    "price per day": "400",
+    "price per week": "1900",
+    "available": true
+  },
+  "2": {
+    "brand": "Audi",
+    "model": "A6",
+    "fuel consumption": "9",
+    "car number": "PB0717BT",
+    "price per hour": "30",
+    "price per day": "450",
+    "price per week": "2000",
+    "available": true
+  },
+  "3": {
+    "brand": "Audi",
+    "model": "A8",
+    "fuel consumption": "9",
+    "car number": "PB1111AK",
+    "price per hour": "50",
+    "price per day": "700",
+    "price per week": "2500",
+    "available": true
+  },
+  "4": {
+    "brand": "BMV",
+    "model": "320",
+    "fuel consumption": "7",
+    "car number": "PB0759KA",
+    "price per hour": "25",
+    "price per day": "400",
+    "price per week": "1900",
+    "available": true
+  },
+  "5": {
+    "brand": "BMV",
+    "model": "530",
+    "fuel consumption": "7",
+    "car number": "PB3335PC",
+    "price per hour": "40",
+    "price per day": "500",
+    "price per week": "2000",
+    "available": true
+  },
+  "6": {
+    "brand": "BMV",
+    "model": "745",
+    "fuel consumption": "12",
+    "car number": "PB2525KA",
+    "price per hour": "70",
+    "price per day": "700",
+    "price per week": "2500",
+    "available": true
+  },
+  "7": {
+    "brand": "Mercedes",
+    "model": "C220",
+    "fuel consumption": "7.5",
+    "car number": "PB2525KK",
+    "price per hour": "25",
+    "price per day": "450",
+    "price per week": "1900",
+    "available": true
+  },
+  "8": {
+    "brand": "Mercedes",
+    "model": "E320",
+    "fuel consumption": "8.5",
+    "car number": "PB9099CP",
+    "price per hour": "40",
+    "price per day": "550",
+    "price per week": "2000",
+    "available": true
+  },
+  "9": {
+    "brand": "Mercedes",
+    "model": "S63 AMG",
+    "fuel consumption": "12",
+    "car number": "PB7777PK",
+    "price per hour": "70",
+    "price per day": "700",
+    "price per week": "2500",
+    "available": true
+  },
+  "10": {
+    "brand": "Volkswagen",
+    "model": "Golf 5",
+    "fuel consumption": "7",
+    "car number": "PB0990KK",
+    "price per hour": "20",
+    "price per day": "350",
+    "price per week": "1650",
+    "available": true
+  },
+  "11": {
+    "brand": "Volkswagen",
+    "model": "Passat 6",
+    "fuel consumption": "8",
+    "car number": "PB0110KP",
+    "price per hour": "35",
+    "price per day": "400",
+    "price per week": "1700",
+    "available": true
+  },
+  "12": {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "fuel consumption": "9.5",
+    "car number": "PB9232PC",
+    "price per hour": "65",
+    "price per day": "500",
+    "price per week": "2500",
+    "available": true
+  }
+}
